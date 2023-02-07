@@ -1,2 +1,2 @@
-My first readme is updated. Thanks all
+My first readme.
 
